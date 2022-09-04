@@ -78,7 +78,7 @@ In order to run the application, in your terminal run:
      streamlit run main.py
 ## Output
 
-![Image description](https://github.com/tanulsingh/Humour.ai/blob/master/Demo/sa.PNG)
+![Image description](https://github.com/glitchdawg/Corporate-joker/blob/main/Pictures/Joke%20Generator.png)
 
 ![Image description](https://github.com/tanulsingh/Humour.ai/blob/master/Demo/Tanul.PNG)
 
