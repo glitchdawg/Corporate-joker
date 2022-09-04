@@ -80,5 +80,5 @@ In order to run the application, in your terminal run:
 
 ![Image description](https://github.com/glitchdawg/Corporate-joker/blob/main/Pictures/Joke%20Generator.png)
 
-![Image description](https://github.com/tanulsingh/Humour.ai/blob/master/Demo/Tanul.PNG)
+![Image description](https://github.com/glitchdawg/Corporate-joker/blob/main/Pictures/Sentence%20Completion.png)
 
