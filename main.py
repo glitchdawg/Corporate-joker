@@ -142,7 +142,7 @@ def predict2(length_of_joke,number_of_jokes):
 
 
 bitlist = []
-for x in range(30, 200):
+for x in range(128, 200):
     if x % 2 == 0:
         bitlist.append(x)
 bits = random.choice(bitlist)
