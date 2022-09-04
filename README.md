@@ -18,7 +18,7 @@ Example:
 
 ## Preparing the Dataset 
 ### Data Collection
-Using PRAW (Python Reddit API Wrapper), we collected over 250,000 Jokes Dataset from the r/Jokes dataset with four attributes. Each being 
+Using PRAW (Python Reddit API Wrapper), we scraped over 250,000 Jokes Dataset from the r/Jokes dataset with four attributes and then convert the dataset into a csv file, to be further cleaned. 
 
 ### Data Cleaning
 
