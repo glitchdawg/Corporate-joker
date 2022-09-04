@@ -6,7 +6,6 @@ demanded based on circumstances.
 
 
 
-
 ## Requirements
 
 1. Create a function that can return jokes without input.
