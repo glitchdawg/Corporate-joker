@@ -1,5 +1,5 @@
 
-# Corporate Joke
+# Corporate Joker
 
 To build an Intelligent corporate joke application using NLP. The model should reply with jokes as
 demanded based on circumstances.
